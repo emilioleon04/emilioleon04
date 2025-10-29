@@ -55,9 +55,8 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmilioLeon&show_icons=true&theme=default" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=EmilioLeon&theme=default" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioLeon&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emilioleon04&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioleon04&layout=compact" alt="Top Languages" />
 </p>
 
 <hr>
